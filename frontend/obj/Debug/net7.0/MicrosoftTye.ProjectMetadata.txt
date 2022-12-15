@@ -2,9 +2,9 @@ AssemblyInformationalVersion:
 InformationalVersion: 1.0.0
 Version: 1.0.0
 TargetFrameworks:
-RunCommand: /Users/wluo/Projects/TyeLearning/microservice/frontend/bin/Debug/net7.0/frontend
+RunCommand: /Users/wluo/Projects/TyeLearning/TyeWorkflow/frontend/bin/Debug/net7.0/frontend
 RunArguments:
-TargetPath: /Users/wluo/Projects/TyeLearning/microservice/frontend/bin/Debug/net7.0/frontend.dll
+TargetPath: /Users/wluo/Projects/TyeLearning/TyeWorkflow/frontend/bin/Debug/net7.0/frontend.dll
 PublishDir: bin/Debug/net7.0/publish/
 AssemblyName: frontend
 IntermediateOutputPath: obj/Debug/net7.0/

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wluo/Projects/TyeLearning/microservice/backend/backend.csproj": {}
+    "/Users/wluo/Projects/TyeLearning/TyeWorkflow/backend/backend.csproj": {}
   },
   "projects": {
-    "/Users/wluo/Projects/TyeLearning/microservice/backend/backend.csproj": {
+    "/Users/wluo/Projects/TyeLearning/TyeWorkflow/backend/backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wluo/Projects/TyeLearning/microservice/backend/backend.csproj",
+        "projectUniqueName": "/Users/wluo/Projects/TyeLearning/TyeWorkflow/backend/backend.csproj",
         "projectName": "backend",
-        "projectPath": "/Users/wluo/Projects/TyeLearning/microservice/backend/backend.csproj",
+        "projectPath": "/Users/wluo/Projects/TyeLearning/TyeWorkflow/backend/backend.csproj",
         "packagesPath": "/Users/wluo/.nuget/packages/",
-        "outputPath": "/Users/wluo/Projects/TyeLearning/microservice/backend/obj/",
+        "outputPath": "/Users/wluo/Projects/TyeLearning/TyeWorkflow/backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wluo/.nuget/NuGet/NuGet.Config"

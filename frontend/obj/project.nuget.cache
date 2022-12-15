@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AncqzgXB2HC/5Z8bJwr2tymjP8gLV9cPl0KskqfQeTevigonyE+CUsA0g4kKx1VrbYP5StnluoUBalzuzqydrg==",
+  "dgSpecHash": "Hns1wNCwUtdS7FdEor8Zg7nXnrbcGC2NPowQQRKM8Y99mKpUFHavIii2rjabjRiw/+rT1nTyXqXVr3D5eNe8Pg==",
   "success": true,
-  "projectFilePath": "/Users/wluo/Projects/TyeLearning/microservice/frontend/frontend.csproj",
+  "projectFilePath": "/Users/wluo/Projects/TyeLearning/TyeWorkflow/frontend/frontend.csproj",
   "expectedPackageFiles": [
     "/Users/wluo/.nuget/packages/dapr.aspnetcore/1.9.0/dapr.aspnetcore.1.9.0.nupkg.sha512",
     "/Users/wluo/.nuget/packages/dapr.client/1.9.0/dapr.client.1.9.0.nupkg.sha512",
