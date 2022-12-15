@@ -1,0 +1,15 @@
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/frontend
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/appsettings.Development.json
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/appsettings.json
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/frontend.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/frontend.deps.json
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/frontend.runtimeconfig.json
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/frontend.pdb
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Dapr.AspNetCore.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Dapr.Client.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Google.Api.CommonProtos.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Google.Protobuf.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Grpc.Core.Api.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Grpc.Net.Client.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Grpc.Net.Common.dll
+/var/folders/mt/gkcq10v517z63py13560vl240000gn/T/lepknz2w.jzn/Microsoft.Tye.Extensions.Configuration.dll
