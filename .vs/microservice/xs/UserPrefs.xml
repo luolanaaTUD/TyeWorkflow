@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5845FD19-7349-4BD2-9624-2D997CDF23AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.frontend PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="backend/Dockerfile">
+    <Files>
+      <File FileName="backend/Dockerfile" Line="23" Column="1" />
+      <File FileName=".dockerignore" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="microservice" expanded="True" selected="True">
+            <Node name="backend" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
+            <Node name="frontend" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

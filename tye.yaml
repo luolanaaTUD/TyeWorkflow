@@ -19,7 +19,7 @@ name: microservice
 
 #     # components-path configures the components path of the dapr sidecar
 #     components-path: "./components/"
-registry: wluoacr.azurecr.io
+registry: wluo369
 ingress:
   - name: ingress
     bindings:
